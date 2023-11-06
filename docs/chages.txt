@@ -1,0 +1,2 @@
+-option expiray detail in constvalues
+-what to use create option symbol in statrgy (exdate or exmonthalpha like this)

@@ -1,0 +1,3 @@
+- parameter on_massage and on_close of the  ConnectHSM.hsm_connection() in file NeoWebSocket.py.
+-comment a print statment in the NeoAPI constructor in file neo_api.py.
+-new parameter to the NeoAPI.subscribe_to_orderfeed() in file neo_api.py.
